@@ -3,7 +3,7 @@ describe('empty spec', () => {
     cy.visit('/')
   })
   it('displays the resources text', () => {
-    cy.get('')
+    cy.get('h1')
     .contains('vedicode');
   })
 })
