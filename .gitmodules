@@ -1,0 +1,6 @@
+[submodule "themes/themes/gruvhugo"]
+	path = themes/themes/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo
+[submodule "themes/gruvhugo"]
+	path = themes/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo
