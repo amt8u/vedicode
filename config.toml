@@ -41,24 +41,24 @@ metaDataFormat= "yaml"
 
  # Social icons
   [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/vedicode"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:mail@vedicode.com"
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/vedicode"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/vedicode"
 
   [[params.social]]
+    name = "email"
+    url  = "mailto:uvedicode@gmail.com"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/@vedicode"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/uvedicode"
+
+  [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/vedicode"
+    url  = "https://www.linkedin.com/in/vedicode"
 
 [params.style]
   # add path to custom CSS files here
